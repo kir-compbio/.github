@@ -1,6 +1,6 @@
 Based at the University of Oxford, scientists at the [Kennedy Institute of Rheumatology](https://www.kennedy.ox.ac.uk) (KIR) are using computational biolgoy approaches to study the immune system and immune mediated diseases. 
 
-## Links to KIR computational groups
+## Kennedy Computational groups
 
 * Sansom lab: [Institutional page](https://www.kennedy.ox.ac.uk/research/research-groups/computational-genomics), [github](https://github.com/sansomlab)
 * Luo lab: [Institutional page](https://www.kennedy.ox.ac.uk/research/research-groups/luo-group-statistical-genomics-and-computational-immunology), [github](https://github.com/yang-luo-lab/)
@@ -10,7 +10,6 @@ Based at the University of Oxford, scientists at the [Kennedy Institute of Rheum
 * Dendrou lab: [Institutional page](https://www.kennedy.ox.ac.uk/research/research-groups/dendrou-group-immune-disease-multiomics), [github](https://github.com/DendrouLab)
 
 ## Computational tools and pipelines
-
 
 * [cellhub](https://github.com/sansomlab/cellhub) provides a workflow for best-practise pre-processing and clustering of large scale multimodal single-cell datasets.
 * [txseq](https://github.com/sansomlab/txseq) provides best-practice pipelines for the analysis of bulk rna-sequencing data
