@@ -1,4 +1,4 @@
-Based at the University of Oxford, scientists at the [Kennedy Institute of Rheumatology](https://www.kennedy.ox.ac.uk) (KIR) is using computational biolgoy approaches to study the immune system and immune mediated diseases. 
+Based at the University of Oxford, scientists at the [Kennedy Institute of Rheumatology](https://www.kennedy.ox.ac.uk) (KIR) are using computational biolgoy approaches to study the immune system and immune mediated diseases. 
 
 ## Links to KIR computational groups
 
