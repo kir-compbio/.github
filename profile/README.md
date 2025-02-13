@@ -9,7 +9,7 @@ Based at the University of Oxford, scientists at the [Kennedy Institute of Rheum
 * Hallou lab: [Institutional page](https://www.kennedy.ox.ac.uk/team/adrien-hallou)
 * Dendrou lab: [Institutional page](https://www.kennedy.ox.ac.uk/research/research-groups/dendrou-group-immune-disease-multiomics), [github](https://github.com/DendrouLab)
 
-## Computational tools and pipelines
+## Bioinformatics tools and pipelines
 
 * [cellhub](https://github.com/sansomlab/cellhub) provides a workflow for best-practise pre-processing and clustering of large scale multimodal single-cell datasets.
 * [txseq](https://github.com/sansomlab/txseq) provides best-practice pipelines for the analysis of bulk rna-sequencing data
