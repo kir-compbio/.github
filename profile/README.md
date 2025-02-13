@@ -11,7 +11,7 @@ Based at the University of Oxford, scientists at the [Kennedy Institute of Rheum
 
 ## Bioinformatics tools and pipelines
 
-* [cellhub](https://github.com/sansomlab/cellhub) provides a workflow for best-practise pre-processing and clustering of large scale multimodal single-cell datasets.
+* [cellhub](https://github.com/sansomlab/cellhub) provides a best-practise workflow for pre-processing and analysing large scale multimodal single-cell datasets.
 * [txseq](https://github.com/sansomlab/txseq) provides best-practice pipelines for the analysis of bulk rna-sequencing data
 * [HLADiversity](https://github.com/yang-luo-lab/HLADiversity) is a pipeline for estimating the distinctiveness of HLA alleles.
 * [HLA-TAPA](https://github.com/yang-luo-lab/HLA-TAPAS) is a HLA-focused pipeline that can handle HLA reference panel construction (MakeReference), HLA imputation (SNP2HLA), and HLA association (HLAassoc).
