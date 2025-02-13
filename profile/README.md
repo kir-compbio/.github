@@ -18,5 +18,5 @@ Based at the University of Oxford, the Kennedy Institute of Rheumatology (KIR) i
 * [HLA-TAPA](https://github.com/yang-luo-lab/HLA-TAPAS) is a HLA-focused pipeline that can handle HLA reference panel construction (MakeReference), HLA imputation (SNP2HLA), and HLA association (HLAassoc).
 * [cov-LDSC](https://github.com/yang-luo-lab/cov-ldsc)  is a method to provide robust hg2 estimates from GWAS summary statistics and in-sample LD estimates in admixed populations.
 * [OCMS_16S](https://github.com/OxfordCMS/OCMS_16S) is a pipeline for 16S amplicon sequencing analysis (e.g. for microbiome analysis).
-* [OCMSlooksy] (https://github.com/OxfordCMS/OCMSlooksy) is an RShiny app for exploration of 16S rRNA gene data in microbiome research.
-* [panpipes] (https://github.com/DendrouLab/panpipes/tree/main) is a collection of pipelines for multimodal single-cell analysis.
+* [OCMSlooksy](https://github.com/OxfordCMS/OCMSlooksy) is an RShiny app for exploration of 16S rRNA gene data in microbiome research.
+* [panpipes](https://github.com/DendrouLab/panpipes/tree/main) is a collection of pipelines for multimodal single-cell analysis.
