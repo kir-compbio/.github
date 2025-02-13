@@ -1,6 +1,6 @@
 Based at the University of Oxford, scientists at the [Kennedy Institute of Rheumatology](https://www.kennedy.ox.ac.uk) (KIR) are using computational biolgoy approaches to study the immune system and immune mediated diseases. 
 
-## Kennedy Computational groups
+## Computational groups at the Kennedy
 
 * Sansom lab: [Institutional page](https://www.kennedy.ox.ac.uk/research/research-groups/computational-genomics), [github](https://github.com/sansomlab)
 * Luo lab: [Institutional page](https://www.kennedy.ox.ac.uk/research/research-groups/luo-group-statistical-genomics-and-computational-immunology), [github](https://github.com/yang-luo-lab/)
